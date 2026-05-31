@@ -283,3 +283,11 @@ PYTHONPATH=~/Downloads/kronos_demo/Kronos python ~/Downloads/kronos_demo/kronos_
 5. 对结果做反标准化
 6. 使用最后一个可用 `factor` 对预测价格做还原（`pred_price / factor`）
 7. 保存单张统一 K 线图（上预测下真实）
+
+### 效果
+* 预测K线
+![预测K线](https://www.fighteryu.xyz/blog/img/6402.png)
+* 历史K线对比
+![历史对比K线](https://www.fighteryu.xyz/blog/img/6405.png)
+#### 欢迎关注
+![](https://www.fighteryu.xyz/blog/img/gzh.jpeg)
